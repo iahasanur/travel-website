@@ -1,0 +1,27 @@
+.Main-content{
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 3%;
+    right: 3%;
+    bottom: 20%;
+    height:40%;
+    width:94%;
+    justify-content: space-between;
+       
+}
+.Destination-place{
+    position: relative;
+    margin-top:5%;
+    width: 35%;
+    height:auto;
+    color:white;
+    
+}
+.Destination-form{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+    width: 60%;
+}

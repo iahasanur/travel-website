@@ -1,0 +1,23 @@
+.Rooms-component{
+    color: black;
+}
+.Nav-one{
+    float: left;
+    margin-left: 10vw;
+}
+.Nav-sec{
+    display:inline;
+    float:right;
+    width: 60vw;
+    
+}
+.Navs a{
+    color: black;
+}
+.Navs{
+    height: 15vh;
+}
+.Room-information{
+    
+
+}
